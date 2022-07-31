@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjycui/omit.js.git"
+    "url": "https://github.com/biology-w/omitjs"
   },
   "keywords": [
     "object",
@@ -32,9 +32,9 @@
   "author": "maomao_0731<1185279859@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benjycui/omit.js/issues"
+    "url": "https://github.com/biology-w/omitjs/issues"
   },
-  "homepage": "https://github.com/benjycui/omit.js#readme",
+  "homepage": "https://github.com/biology-w/omitjs#readme",
   "devDependencies": {
     "@umijs/fabric": "^2.2.2",
     "assert": "^1.4.1",
