@@ -1,5 +1,5 @@
 {
-  "name": "@maomao_0731/omitjs",
+  "name": "maomao_0731omitjs",
   "version": "1.0.1",
   "description": "Utility function to create a shallow copy of an object which had dropped some fields.",
   "main": "lib/index.js",
