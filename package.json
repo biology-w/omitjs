@@ -1,5 +1,5 @@
 {
-  "name": "maomao_0731omitjs",
+  "name": "testomitmaomao",
   "version": "1.0.2",
   "description": "Utility function to create a shallow copy of an object which had dropped some fields.",
   "main": "lib/index.js",
